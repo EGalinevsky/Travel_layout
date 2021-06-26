@@ -104,6 +104,7 @@ a {
 }
 img,
 video {
+  text-align: c;
   max-width: 100%;
   height: auto;
 }
@@ -517,6 +518,11 @@ section {
 
 .video__container {
   padding-bottom: 1rem;
+  
+}
+
+.video{
+  text-align: center;
 }
 
 .video__description {
